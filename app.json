@@ -5,7 +5,7 @@
         "telegram",
         "AntiSpamBot"
     ],
-    "repository": "https://github.com/HuzunluArtemis/AntiSpamBot",
+    "repository": "https://github.com/Rippo123/AntiSpamBot",
     "env": {
         "APP_ID": {
             "description": "Get this value from https://my.telegram.org",
